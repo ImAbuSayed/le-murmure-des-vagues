@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-murmure-des-vagues/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Le Murmure Des Vagues](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-murmure-des-vagues/) |
+| **Get License** | [Music Rights & Licensing for Le Murmure Des Vagues](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-murmure-des-vagues/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre, ton regard m'appelle, ouais
+> Paris s'éveille quand tu te fais rebelle
+> Un murmure des vagues, un frisson sur la peau
+> Tu le sais bien, t'es mon plus beau défaut
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
